@@ -1,4 +1,4 @@
-# Introduction-to-NoSQL-databases--coursera-answers
+# Introduction to NoSQL databases of IBM Specialization Course - coursera answers
 
 WEEK 1 - a
 ![image](https://user-images.githubusercontent.com/104795331/227775996-d50ec9f6-9518-490d-9760-391f3e55b2b7.png)
